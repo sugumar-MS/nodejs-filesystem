@@ -1,4 +1,4 @@
-#Steps to the application command process:
+#Steps to setup the application command process:
 
 - npm init
 
